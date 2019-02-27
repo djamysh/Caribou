@@ -20,8 +20,9 @@
 <ul>
 <li>Windows : ' <strong>\</strong> '</li>
 <li>Linux : ' <strong>/</strong> '</li>
-</br>
-But If you want to use this codes in another OS , you could change some codes and you can use it.But you must be know,Graphical Problems could be occur.
+<p>
+But If you want to use this codes in another OS , you could change some codes and you can use it.But you must be know,Graphical Problems could be occur and you can't use setup.py code file . Because it written for Linux. And If you want my icon for desktop application type , you have to write something new. But I'm still developing.</br>
+</p>
 </li>
 </ol>
 <h4>This codes are vulnerable codes . I'm still developing. <strong>ON</strong> your <i>Knowledge</i></h4>

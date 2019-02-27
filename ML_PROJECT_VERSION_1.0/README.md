@@ -21,7 +21,7 @@
 <li>Windows : ' <strong>\</strong> '</li>
 <li>Linux : ' <strong>/</strong> '</li>
 <p>
-But If you want to use this codes in another OS , you could change some codes and you can use it.But you must be know,Graphical Problems could be occur and you can't use setup.py code file . Because it written for Linux. And If you want my icon for desktop application type , you have to write something new. But I'm still developing.</br>
+But If you want to use this codes in another OS , you could change some codes and you can use it.But you must be know,Graphical Problems could be occur and you can't use setup.py code file . Because it written for Linux. And If you want my icon for desktop application type , you have to write something new.I'm still developing. If you can't wait for me to do it, you can do them.</br>
 </p>
 </li>
 </ol>

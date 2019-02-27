@@ -25,5 +25,5 @@ But If you want to use this codes in another OS , you could change some codes an
 </p>
 </li>
 </ol>
-<h4>This codes are vulnerable codes . I'm still developing. <strong>ON</strong> your <i>Knowledge</i></h4>
+<h4>This codes are vulnerable codes . I'm still developing. <strong><ins>ON</ins></strong> your <i>Knowledge</i></h4>
 

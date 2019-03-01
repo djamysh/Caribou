@@ -1,0 +1,6 @@
+PyQt5
+datetime
+pandas
+numpy
+sklearn
+passlib

@@ -27,3 +27,5 @@ But If you want to use this codes in another OS , you could change some codes an
 </ol>
 <h4>This codes are vulnerable codes . I'm still developing. <strong><ins>ON</ins></strong> your <i>Knowledge</i></h4>
 
+<h4> Installing requirements </h4>
+ `sudo pip3 install -r requirements.txt`

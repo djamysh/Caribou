@@ -16,5 +16,12 @@ After this stipulations met prediction circuts(ML kernels) starts to work. </br>
 Simply design of project is that.</br>
 <p>
 
+<h3> Notes </h3>
+<p> <li>
+ <ul>  There is a lot of vulnerability in version 1.0 and so many things waiting for the update  </ul>
+ <ul> Version 1.0 GUI is designed in Turkish</ul>
+ <ul> And so many thing waiting for something , I can't say </ul>
+ </li>
+ </p>
 
 

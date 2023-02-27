@@ -17,8 +17,8 @@ yapacağım bu uygulamanın backend'i olmasını planlıyorum.
 
 ## Neden Caribou?
 
-Bu projeyi yaparken, Pixies'in Caribou isimli şarkısını tekrar tekrar dinliyordum. Bu sebepten dolayı ismini
-Caribou verdim.
+Bu projeyi yaparken, Pixies'in 'Come on Pilgrim' albümünü tekrar tekrar dinliyordum. Caribou bu albümdeki en sevdiğim parçaydı
+bu sebepten dolayı ismini Caribou verdim.
 
 <img src="https://i1.sndcdn.com/artworks-D5ebp8CfqPXc-0-t500x500.png" alt="Pixies-Come On Pilgrim album cover" style="display: block; margin-left: auto;margin-right: auto;width: 50%;height:50%">
 
